@@ -23,11 +23,11 @@
 
 /* Aplicar animações apenas aos elementos necessários */
 .message-item {
-  animation: fadeIn 0.3s ease-out;
+  animation: fadeIn 0.6s ease-out;
 }
 
 .options-container {
-  animation: fadeIn 0.3s ease-out;
+  animation: fadeIn 0.6s ease-out;
 }
 
 .typing-dot {
@@ -35,11 +35,11 @@
 }
 
 .delay-1 {
-  animation-delay: 0.2s;
+  animation-delay: 0.6s;
 }
 
 .delay-2 {
-  animation-delay: 0.4s;
+  animation-delay: 0.8s;
 }
 
 /* Corrigir problema de zoom no mobile */

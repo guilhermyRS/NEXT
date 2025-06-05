@@ -8,8 +8,8 @@ const inter = Inter({
 })
 
 export const metadata = {
-  title: "Barbearia Premium - Agendamento",
-  description: "Sistema de agendamento da Barbearia Premium",
+  title: "Barbearia KendyBlack - Agendamento",
+  description: "Sistema de agendamento da Barbearia KendyBlack",
   viewport: "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
 }
 
