@@ -1,0 +1,30 @@
+{
+  "name": "next-tailwind-project",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@radix-ui/react-avatar": "^1.1.10",
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-select": "^2.2.5",
+    "@radix-ui/react-separator": "^1.1.7",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@tailwindcss/postcss": "^4.1.8",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.513.0",
+    "next": "latest",
+    "postcss": "^8.5.4",
+    "react": "latest",
+    "react-dom": "latest",
+    "reactflow": "^11.11.4",
+    "tailwind-merge": "^3.3.0",
+    "tailwindcss": "^4.1.8"
+  },
+  "devDependencies": {
+    "tw-animate-css": "^1.3.4"
+  }
+}
